@@ -1,0 +1,1 @@
+{"name":"@bailout/server","version":"1.0.0","private":true,"main":"dist/index.js","scripts":{"dev":"ts-node src/index.ts","build":"tsc","start":"node dist/index.js"},"dependencies":{"express":"^4.18.2","cors":"^2.8.5","dotenv":"^16.0.3"},"devDependencies":{"typescript":"^5.0.0","@types/node":"^20.0.0","@types/express":"^4.17.17","ts-node":"^10.9.1"}}
